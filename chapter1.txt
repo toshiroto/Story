@@ -1,0 +1,1 @@
+I was able to open Chapter 1 on Desktop from terminal. 
